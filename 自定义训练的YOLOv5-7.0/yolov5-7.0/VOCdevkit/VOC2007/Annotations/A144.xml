@@ -1,0 +1,50 @@
+<annotation>
+	<folder>深度学习采集螺丝</folder>
+	<filename>Camera MV-GE502C#A9FE9BF0-Snapshot-20230216-112834-710-98510997913.BMP</filename>
+	<path>F:\项目资料\23年项目资料\车顶无人化项目\深度学习采集螺丝\Camera MV-GE502C#A9FE9BF0-Snapshot-20230216-112834-710-98510997913.BMP</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>121</ymin>
+			<xmax>887</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>luosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1419</xmin>
+			<ymin>243</ymin>
+			<xmax>1536</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>luosi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1858</xmin>
+			<ymin>135</ymin>
+			<xmax>2003</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

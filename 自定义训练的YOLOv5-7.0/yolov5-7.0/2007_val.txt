@@ -1,0 +1,4 @@
+/home/cxx/project/yolov5-7.0/VOCdevkit/VOC2007/JPEGImages/A225.BMP
+/home/cxx/project/yolov5-7.0/VOCdevkit/VOC2007/JPEGImages/A310.BMP
+/home/cxx/project/yolov5-7.0/VOCdevkit/VOC2007/JPEGImages/A301.BMP
+/home/cxx/project/yolov5-7.0/VOCdevkit/VOC2007/JPEGImages/A101.BMP
